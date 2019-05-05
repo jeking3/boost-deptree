@@ -23,5 +23,10 @@ Dashed lines are test-only dependencies.
 
 ## Samples
 
-[cycle](samples/cycle.puml)
-[uuid](samples/uuid.puml)
+### --cycle
+
+![--cycle](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/jeking3/boost-deptree/master/samples/cycles.puml)
+
+### uuid
+
+![--from=uuid](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/jeking3/boost-deptree/master/samples/uuid.puml)
